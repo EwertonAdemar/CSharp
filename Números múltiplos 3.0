@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication5
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+              int num;
+
+            Console.WriteLine("Estrutura de Controle");
+            Console.WriteLine("Entre com um número");
+            num = int.Parse(Console.ReadLine());
+            Console.WriteLine("O número digitado foi: " + num);
+            Console.WriteLine("O número digitado é múltiplo de 5???");
+
+                //multiplo de 5
+            if (num % 5 == 0)
+            {
+                Console.WriteLine(num + " é múltiplo de 5");
+            }
+                //múltiplo de 2
+            else if(num % 2 == 0){
+                Console.WriteLine(num + " é múltiplo de 2");
+            }
+
+            //estrutura de repetição
+            int c=1;
+
+            for (c=num; c >=1;c--){
+                if (c % 2 != 0)
+                {
+                Console.WriteLine(" " + c);
+            }
+        }
+        Console.ReadKey();
+        }
+    }
