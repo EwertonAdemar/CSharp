@@ -1,0 +1,84 @@
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\bin\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\bin\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.Login.resources
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.Matricula.resources
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.Menu.resources
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Configurações locais\Dados de aplicativos\Temporary Projects\Atividade\obj\x86\Debug\Atividade.Relatorio.resources
+C:\Documents and Settings\FDG\Desktop\Atividade\obj\x86\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Desktop\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\bin\Debug\Atividade.exe
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\bin\Debug\Atividade.pdb
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.csprojResolveAssemblyReference.cache
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Alunos.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Cursos.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Login.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Matricula.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Menu.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Períodos.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.Relatorio.resources
+C:\Users\CASA\Desktop\26.09 - A FAZER\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Alunos.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Cursos.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Login.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Matricula.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Menu.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Períodos.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.Relatorio.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\bin\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\bin\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.informatica.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.logistica.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.mecatronica.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\Atividade.segurança.resources
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource.read.33.tlog
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource.read.36.tlog
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource.write.83.tlog
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource.write.84.tlog
+C:\Documents and Settings\FDG\Desktop\26.09 - ATUALIZADO\Atividade\obj\x86\Debug\GenerateResource.write.264.tlog
+C:\Users\CASA\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\CASA\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.pdb
+H:\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.exe
+H:\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\bin\Debug\Atividade.exe
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\bin\Debug\Atividade.pdb
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Alunos.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Cursos.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.informatica.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Login.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.logistica.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Matricula.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.mecatronica.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Menu.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Períodos.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.segurança.resources
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource.read.33.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource.read.36.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource.write.264.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource.write.83.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\GenerateResource.write.84.tlog
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\bin\Debug\Atividade.exe.config
+C:\Documents and Settings\FDG\Desktop\ATIVIDADE C# 2\Atividade\obj\x86\Debug\Atividade.Relatório.resources
+G:\3IF3(10.10)\Desenvolvimento de Software-II(C#)\Atividades\ATIVIDADE C#( 26.09)\Atividade\bin\Debug\Atividade.exe.config
+G:\3IF3(10.10)\Desenvolvimento de Software-II(C#)\Atividades\ATIVIDADE C#( 26.09)\Atividade\obj\x86\Debug\Atividade.exe
+G:\3IF3(10.10)\Desenvolvimento de Software-II(C#)\Atividades\ATIVIDADE C#( 26.09)\Atividade\obj\x86\Debug\Atividade.pdb

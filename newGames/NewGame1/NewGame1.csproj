@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{29717EA7-DDD4-4D9F-BCEF-957E38E0A998}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NewGame</RootNamespace>
+    <AssemblyName>NewGame1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro.Designer.cs">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Call.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Call.Designer.cs">
+      <DependentUpon>Call.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conectar.cs" />
+    <Compile Include="FarCry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FarCry.Designer.cs">
+      <DependentUpon>FarCry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Minha area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Minha area.Designer.cs">
+      <DependentUpon>Minha area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="minhaArea2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="minhaArea2.Designer.cs">
+      <DependentUpon>minhaArea2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="minhaArea3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="minhaArea3.Designer.cs">
+      <DependentUpon>minhaArea3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="minhaArea4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="minhaArea4.Designer.cs">
+      <DependentUpon>minhaArea4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheCrew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheCrew.Designer.cs">
+      <DependentUpon>TheCrew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GTA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GTA.Designer.cs">
+      <DependentUpon>GTA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rogue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rogue.Designer.cs">
+      <DependentUpon>Rogue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unity.Designer.cs">
+      <DependentUpon>Unity.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cadastro.resx">
+      <DependentUpon>Cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Call.resx">
+      <DependentUpon>Call.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FarCry.resx">
+      <DependentUpon>FarCry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minha area.resx">
+      <DependentUpon>Minha area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="minhaArea2.resx">
+      <DependentUpon>minhaArea2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="minhaArea3.resx">
+      <DependentUpon>minhaArea3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="minhaArea4.resx">
+      <DependentUpon>minhaArea4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheCrew.resx">
+      <DependentUpon>TheCrew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GTA.resx">
+      <DependentUpon>GTA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rogue.resx">
+      <DependentUpon>Rogue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unity.resx">
+      <DependentUpon>Unity.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GTA-V-Capa-Brasil-Xbox360.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cópia %282%29 de ps4_assassin_s_creed_uppnity_capa_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gta_v_xbox_one_capa_jony_games.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cópia de ps4_assassin_s_creed_unity_capa_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\279168_Papel-de-Parede-Logo-Playstation-3_1920x1200.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XBOX_360.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assassin%27s Creed - Rogue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cópia %282%29 de ps4_assassin_s_creed_unity_capa_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20140624135850!The_crew_capa_oficial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gta-v-five-logo-black-green-612-hd-1680x1050.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the_crew_bf_game_wallpaper_1920.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wacu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Call-of-Duty-Advanced-Warfare-p-games.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gta-v-five-logo-black-green-612-hd-1680x10501.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Call-of-Duty-Advanced-Warfare-p-games1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male-user-silhouette_318-35708.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS4-Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background-Xbox-3602.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meta-thumb-01ac5074.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xbox_one-wallpaper-1024x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PS4-icons-playstation-672x372.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xbox 360 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\279168_Papel-de-Parede-Logo-Playstation-3_1920x12001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Far-Cry-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefallllult.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefallllult1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leandro.cirilo.12far-cry-4-1400170779522_600x843.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\XBOX-1024x1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\620x350xxboxone.jpg.pagespeed.ic.P3ZuVwdJh3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\news_sony_ps4_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffe18bc07f4987eed129481171683dad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Far-Cry-41.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
